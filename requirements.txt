@@ -1,0 +1,4 @@
+
+redisvl[all]
+jupyterhub
+ipykernel
